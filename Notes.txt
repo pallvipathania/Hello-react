@@ -1,0 +1,22 @@
+npm - no full form -> npm manages packages but not stand for
+npm have version nd other info in package.js
+
+bundler -> webpack bundler,vet,parcel->bundles ur app so that it can be shipped to production 
+
+dependencies= dev ,normal 
+parcel as dev dependencie
+
+# what Parcel do
+- Dev Build
+- Local server
+- HMR - Hote Module Replacement (to refresh every time we do changes and save it)
+- file watching algorithm -writen in c++ (whenever we save changes it rebuilds)
+- Faster Build cz of Caching
+- image optimization (loading image is expensive)
+- Minification
+- Bundling
+- Compress
+
+browserslist -read about0\ it 
+
+
